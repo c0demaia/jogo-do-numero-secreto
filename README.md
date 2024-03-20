@@ -36,5 +36,5 @@
 
 ## Autor
 
-Este jogo foi desenvolvido por codegui como parte do aprendizado em JavaScript.
+Este jogo foi desenvolvido por c0demaia como parte do aprendizado em JavaScript.
 
